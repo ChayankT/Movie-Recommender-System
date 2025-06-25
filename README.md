@@ -70,7 +70,13 @@ API_KEY = "your_own_tmdb_api_key"
 
 ## 🖼️ Preview
 
+![image](https://github.com/user-attachments/assets/a1d08a4e-91fc-47b3-b3f6-05710edecb5d)
 
+![image](https://github.com/user-attachments/assets/ff3655d8-cc8e-4d30-9640-9a0661b68359)
+
+![image](https://github.com/user-attachments/assets/e6d9710a-e74f-45b1-939c-381602e8ef91)
+
+![image](https://github.com/user-attachments/assets/58ce0113-4703-4c80-aa24-7efd5c3e5d4c)
 
 ---
 
