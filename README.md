@@ -12,7 +12,6 @@ A content-based movie recommender web app built with **Streamlit**, using movie 
 - 🎥 Top 5 recommendations with posters  
 - 🎭 Genre and ⭐ rating display using TMDb API  
 - ⚡ Fast performance with Streamlit caching  
-- 🌗 Light/Dark theme toggle  
 - 🧠 Uses precomputed similarity matrix for content-based filtering  
 
 ---
